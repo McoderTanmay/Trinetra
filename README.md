@@ -14,7 +14,7 @@ The project was motivated by the need to:
 
 ## 🔗 Live Project and Demo
 
-- 🌐 **Live Project:** [Visit Trinetra Here]([https://your-live-project-link.com](https://benevolent-beignet-7e524e.netlify.app/))
+- 🌐 **Live Project:** [Visit Trinetra Here](https://benevolent-beignet-7e524e.netlify.app/)
 - 🎥 **Demo Video:** [Watch demo video](https://drive.google.com/file/d/1ot_cXGC5AR2Nxke1T85EP63oby7rXjQu/view?usp=sharing)
 
 
